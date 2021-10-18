@@ -1,0 +1,7 @@
+# Archivos/ funciones del código original que fueron removidos de esta versión para evitar filtración de información sobre servicios de la Filmoteca.
+
+IPs de readme.md
+application.properties
+config/DbConfiguration.java
+RandomNewPass.java
+COnstants.java
