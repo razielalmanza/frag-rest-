@@ -68,7 +68,7 @@ Debido al uso obsoleto de versiones en Chocolatey, se recomienda instalar Spring
 Clonar el repositorio:
 
 ```
-$ git clone git@132.247.164.43:filmo/frag-rest.git
+$ git clone git@safe-holder/frag-rest.git
 ```
 
 La rama master siempre debe respetarse para ser la versión final de cada actualización.
@@ -173,7 +173,7 @@ donde _version_ es de tipo _v1.0.0_
 $ Al terminar el build se debe subir la imagen al servidor.
 
 ```
-docker push <ip_del_servidor>:5000/frag-rest-dev
+docker push <ip_del_servidor>/frag-rest-dev
 ```
 
 Para hacer el deploy consulte la información de Docker en la [Wiki interna]().
